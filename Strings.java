@@ -28,5 +28,8 @@ public class Strings {
         System.out.println("This is a: \' - Single quote");
         System.out.println("This is a: \" - Double quote");
         System.out.println("This is a: \\ - Backslash");
+
+        System.out.println("This is a \n new line");
+        System.out.println("This is a \t tab");
     }
 }
