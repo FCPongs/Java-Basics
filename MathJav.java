@@ -22,5 +22,6 @@ public class MathJav {
 
         //! Random number
         num5 = Math.random();
+        System.out.println(num5);
     }
 }
