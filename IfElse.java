@@ -2,7 +2,8 @@ public class IfElse {
     public static void main(String[] args) {
 
         boolean checker = true;
-
+        System.out.println(checker);
+        
         if (checker = true){
             System.out.println("The condition is True"); //! This will run if checker is true
         }
