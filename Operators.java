@@ -1,5 +1,11 @@
 public class Operators {
     public static void main(String[] args) {
-        System.out.println("hello");
+        //! Assignment operator (=)
+        int x = 10;
+        System.out.println(x);
+        //! Addition assignment operator (+=)
+        int y = 10;
+        y += 5;
+        System.out.println(y);
     }
 }
