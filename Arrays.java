@@ -10,5 +10,6 @@ public class Arrays {
         int[] myNum = {10, 20, 30, 40};
         for(int x: myNum)
         System.out.print(x);
+
     }
 }
