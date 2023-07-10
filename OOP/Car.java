@@ -1,9 +1,10 @@
 package OOP;
 
+
 public class Car {
     //! An object can have attributes and methods
     String color = "White and black";
-    String brand = "Mclaren";
+    public String brand = "Mclaren";
     String model = "720s";
     int price = 20000000;
 
