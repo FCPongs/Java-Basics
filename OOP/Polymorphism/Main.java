@@ -17,7 +17,7 @@ public class Main {
 
         //* METHOD OVERLOADING - Same name but different parameter
         animal.eat(3);
-
+ 
         //* SAME THING IN A DIFFERENT WAY
     }
 }
