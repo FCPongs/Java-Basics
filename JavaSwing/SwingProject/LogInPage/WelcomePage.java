@@ -1,4 +1,4 @@
-package JavaSwing.SwingProject;
+package LogInPage;
 
 import java.awt.Color;
 import java.awt.Font;

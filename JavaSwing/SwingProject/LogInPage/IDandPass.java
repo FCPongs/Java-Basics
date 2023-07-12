@@ -1,4 +1,4 @@
-package JavaSwing.SwingProject;
+package LogInPage;
 
 import java.util.HashMap;
 

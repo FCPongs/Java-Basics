@@ -1,4 +1,4 @@
-package JavaSwing.SwingProject;
+package LogInPage;
 
 import javax.swing.JFrame;
 
