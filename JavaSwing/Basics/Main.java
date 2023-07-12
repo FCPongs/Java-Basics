@@ -1,4 +1,4 @@
-package JavaSwing;
+package JavaSwing.Basics;
 import java.awt.Color;
 import java.awt.Font;
 
@@ -21,6 +21,8 @@ public class Main {
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // This will close when X is clicked
         frame.setResizable(false); // To stop resize
+
+       
 
         frame.setVisible(true); // This makes the frame visible
 
